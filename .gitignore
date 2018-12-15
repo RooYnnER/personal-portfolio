@@ -5,6 +5,7 @@ __pycache__/
 
 #Custom
 .DS_Store
+manager/
 
 # Installer logs
 pip-log.txt
